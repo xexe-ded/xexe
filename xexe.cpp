@@ -7,7 +7,7 @@ int main(){
     const float SIZE = 150;
     const float ARG = 1;
     float DELAY = 10;
-    const float ROUNDS = 0;
+    const float ROUNDS = 10;
 
     system("color 02");
     
